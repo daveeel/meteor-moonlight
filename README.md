@@ -1,2 +1,4 @@
 # meteor-moonlight
-moonlight.meteor.com (Quick lookup for Meteor JS packages)
+
+A toy for quick searching Meteor JS packages  
+[moonlight.meteor.com](https://moonlight.meteor.com)
